@@ -1,0 +1,14 @@
+numpy == 1.26.2
+matplotlib == 3.8.4
+pandas == 2.0.3
+nptyping == 1.4.4
+opencv-python == 4.8.1.78
+rich == 14.0.0
+jinja2 == 3.0.3
+scipy == 1.10
+mypy
+torch 
+torchvision 
+ultralytics 
+scikit-learn 
+pillow
