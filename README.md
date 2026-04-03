@@ -47,20 +47,20 @@ Repeat for both the simulator and labs repos.
 ### Setup: Simulator
 
 - Open Unity Hub
-- Open Project from File... (upper right on Projects tab)
-- Locate and select the `RacecarNeo-Simulator` directory
+- Projects Tab: Add > Add Project from Disk... (upper right on Projects tab)
+- Locate and select `RacecarSim` within the `RacecarNeo-Simulator` directory
 - Install the recommended Unity Engine Version for the project
 
 ### Running the Simulator
 
 Test the simulator before setting up the labs.
 
-- Connect Dualshock controller (optionl)
-- Open Projets > RacecarNeo-Simulator from Unity Hub
+- Connect Dualshock controller (optional)
+- In Unity Hub: Projets > RacecarNeo-Simulator
 - From the Project panel (bottom) select `Scenes`
 - From the Scene selector (bottom right) double click `Main`
 - Press Play (upper middle) to start the simulator
-- Select one of the simulations
+- Select one of the simulation maps
 
 ### Setup: Labs
 
